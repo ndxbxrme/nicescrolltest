@@ -1,0 +1,21 @@
+{
+  "name": "nicescrolltest",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".meteor/local/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-nicescroll": "~0.0.5"
+  },
+  "overrides": {
+    "angular": {
+      "main": []
+    }
+  }
+}
