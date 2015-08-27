@@ -1,5 +1,6 @@
 angular.module 'nicescrolltestApp', [
   'angular-meteor'
+  'ngSanitize'
   'ui.router'
   'ui.bootstrap'
   'angular-nicescroll'
